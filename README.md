@@ -12,4 +12,5 @@ DS thành viên:
 - 21120422: Nguyễn Chí Cường
 
 Demo: https://www.youtube.com/watch?v=a_COLOCRgF0
+
 Code: https://github.com/yournames762/IDA_Scrapy
